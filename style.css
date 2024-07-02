@@ -3,22 +3,22 @@ h2{
 }
 
 body{
-    background-color:#305050;
+    background-color: #305050;
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Roboto;
     text-align: center;
 }
 
 header{
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid grey;
 }
 
 footer{
-    border-top: 1px solid gray;
+    border-top: 1px solid grey;
 }
 
 #nome-usuário{
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .texto-inglês{
